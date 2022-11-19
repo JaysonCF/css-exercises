@@ -1,0 +1,19 @@
+.shirt {
+    background-color: rgb(222, 12, 96);
+    font-family: Verdana, 'Times New Roman', sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.rambo-print {
+    font-size: 24px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700px;
+}
